@@ -36,9 +36,12 @@ export const projects = [
     id: "project-2",
     title: "VolunTier - Volunteer & Activity Regisrtration System",
     description:
-      "Capstone project for Certificate in Full Stack Java with AI",
+      ["Capstone project for Certificate in Full Stack Java with AI",
+       "A system where users can browse activities and register as volunteers or participants. Admins manage activities and monitor participation.",
+       "This capstone is intended to test my understanding of the full stack, not to build a large commercial platform.",
+      ],
     image: "/images/project-placeholder-2.png",
-    tags: ["React", "Java", "Spring Boot","Node.js", "MongoDB", "JWT Authentication", "BCrypt","REST APIs", "Maven"],
+    tags: ["React", "Java", "Spring Boot","Node.js", "MongoDB", "JWT Authentication", "BCrypt","RESTful API", "Maven"],
     githubLink: "https://github.com/mfahim03/VolunTier",
   },  
   {
@@ -62,23 +65,37 @@ export const projects = [
   },
   {
     id: "project-5",
-    title: "Javascript Mastery (Learning Template/Guides)",
+    title: "Speed Trials 2D - Real-Time and Concurrent Software Development",
     description:
-      "My personal Javascript learning journey based on W3Schools. Code, detailed comments, and syllabus tracking.",
+      "This assignment is to develop and analyze a concurrent, multi-threaded control system for a selfdriving car simulation using RTOS principles to investigate how task scheduling, priority, and timing requirements directly affect the vehicle's real-time responsiveness and stability.",
     image: "/images/project-placeholder-5.png",
-    tags: ["JavaScript", "HTML", "CSS", "W3Schools", "Learning Template", "Code Comments", "Syllabus Tracking"],
-    videoLink: null,
-    githubLink: "https://github.com/tenenggg/javascript-mastery-notes.git",
+    tags: ["Python", "ASP.NET", "Real-Time Operating Systems", "Multi-threading", "Concurrent Programming"],
+    videoLink: "https://youtu.be/25N8Iu907-I?si=Rr0qkDIRut_Qp_Lt",
+    githubLink: "https://github.com/mfahim03/Speed-Trials-2D",
   },
   {
     id: "project-6",
-    title: "NodeJS Mastery (Learning Template/Guides)",  
+    title: "CI/CD Pipeline Implementation with GitLab, DigitalOcean,Jira and SonarQube",  
     description:
-      " A complete, well-organized template with detailed code comments and structure guides to help you understand how to build a professional Node.js backend featuring MySQL, JWT auth, and Socket.io. Whether you're learning for the first time or building your first real project, this template shows you exactly how everything fits together.",
+      ["The objective of this project is to allow students to apply an industrial-level software development workflow by setting up a complete CI/CD environment using GitLab, DigitalOcean, Jira Cloud, and SonarQube.",
+       "We are required to demonstrate how software development, deployment, issue tracking, and code quality analysis can be automated in a real DevOps environment.",
+      ],
     image: "/images/project-placeholder-6.png",
-    tags: ["Node.js", "Express.js", "JavaScript", "MySQL", "JWT Authentication", "Socket.io"],
-    videoLink: null,
-    githubLink: "https://github.com/tenenggg/nodejs-expressjs-template.git",
+    tags: ["GitLab", "Docker", "DigitalOcean", "Jira", "SonarQube"],
+    videoLink: "https://youtu.be/kj-iIkXi068?si=AtxGno6scQUO9EBV",
+    githubLink: null,
+  },
+  {
+    id: "project-7",
+    title: "Katalon Test Execution and Reporting Automation",  
+    description:
+      ["This project aims to automate the execution of Katalon test cases and generate comprehensive reports for efficient test management.",
+       "We are required to demonstrate how test automation can be streamlined and how reporting can be automated for better visibility and tracking of test results.",
+      ],
+    image: "/images/project-placeholder-7.png",
+    tags: ["Katalon Studio", "TestLink", "Test Automation", "Reporting", "Mobile Testing"],
+    videoLink: "https://youtu.be/WQMt6xD8cLE",
+    githubLink: null,
   },
 ];
 
