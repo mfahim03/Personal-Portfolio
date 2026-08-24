@@ -78,7 +78,9 @@ export default function Hero() {
             <br />
             in full-stack web development and database management during internship.
             <br />
-            Driven to apply fresh ideas supported by strong organizational and communication skills in a dynamic work environment.
+            Driven to apply fresh ideas supported by strong organizational and
+            <br />
+            communication skills in a dynamic work environment.
 
           </motion.p>
 
