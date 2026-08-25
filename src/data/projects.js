@@ -78,7 +78,7 @@ export const projects = [
     title: "UTMRunify - Running Event Registration and Management Application",
     description:
       "The UTM Running Application is a user-centered mobile platform designed to streamline the organization and participation of running events at Universiti Teknologi Malaysia (UTM).",
-    image: "/images/project-placeholder-6.png",
+    image: "/images/project-placeholder-6.jpg",
     tags: ["Flutter", "Firebase", "Clockify", "Jira", "Figma", "Agile Scrum", "Mobile Application Development"],
     videoLink: null,
     githubLink: "https://github.com/Apps-Builder/utmrunify",
