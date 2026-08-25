@@ -46,7 +46,7 @@ export const projects = [
   },  
   {
     id: "project-3",
-    title: "Foreign Contract Worker Masterlist",
+    title: "Foreign Contract Worker Masterlist - Internship Project",
     description:  
       "Designed and developed HR systems managing more than 500 records for foreign worker data management including passport and permit tracking with visualisation dashboards.",
     image: "/images/project-placeholder-3.png",
@@ -55,7 +55,7 @@ export const projects = [
   },
   {
     id: "project-4",
-    title: "Door Access Management System",
+    title: "Door Access Management System - Internship Project",
     description:
       "Developed Door Access Management system to track and monitor employee entry access to improve control over workplace security.",
     image: "/images/project-placeholder-4.png",
