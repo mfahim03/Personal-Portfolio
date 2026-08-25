@@ -75,24 +75,34 @@ export const projects = [
   },
   {
     id: "project-6",
+    title: "UTMRunify - Running Event Registration and Management Application",
+    description:
+      "The UTM Running Application is a user-centered mobile platform designed to streamline the organization and participation of running events at Universiti Teknologi Malaysia (UTM).",
+    image: "/images/project-placeholder-6.png",
+    tags: ["Flutter", "Firebase", "Clockify", "Jira", "Figma", "Agile Scrum", "Mobile Application Development"],
+    videoLink: null,
+    githubLink: "https://github.com/Apps-Builder/utmrunify",
+  },
+  {
+    id: "project-7",
     title: "CI/CD Pipeline Implementation with GitLab, DigitalOcean,Jira and SonarQube",  
     description:
       ["The objective of this project is to allow students to apply an industrial-level software development workflow by setting up a complete CI/CD environment using GitLab, DigitalOcean, Jira Cloud, and SonarQube.",
        "We are required to demonstrate how software development, deployment, issue tracking, and code quality analysis can be automated in a real DevOps environment.",
       ],
-    image: "/images/project-placeholder-6.png",
+    image: "/images/project-placeholder-7.png",
     tags: ["GitLab", "Docker", "DigitalOcean", "Jira", "SonarQube"],
     videoLink: "https://youtu.be/kj-iIkXi068?si=AtxGno6scQUO9EBV",
     githubLink: null,
   },
   {
-    id: "project-7",
+    id: "project-8",
     title: "Katalon Test Execution and Reporting Automation",  
     description:
       ["This project aims to automate the execution of Katalon test cases and generate comprehensive reports for efficient test management.",
        "We are required to demonstrate how test automation can be streamlined and how reporting can be automated for better visibility and tracking of test results.",
       ],
-    image: "/images/project-placeholder-7.png",
+    image: "/images/project-placeholder-8.png",
     tags: ["Katalon Studio", "TestLink", "Test Automation", "Reporting", "Mobile Testing"],
     videoLink: "https://youtu.be/WQMt6xD8cLE",
     githubLink: null,
