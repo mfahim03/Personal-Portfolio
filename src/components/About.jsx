@@ -85,8 +85,20 @@ const aboutCards = [
     title: "Certifications",
     items: [
       {
-        text: "Full Stack Java with AI - Yayasan Peneraju",
+        text: "Full Stack Java with AI - CCSD Council/ Yayasan Peneraju",
         date: "Aug 2026",
+      },
+      {
+        text: "iOS and Android Mobile App Developer Professional Certificate - IBM/ Coursera",
+        date: "Oct 2026",
+      },
+      {
+        text: "Generative AI for Software Developers Specialization - IBM/ Coursera",
+        date: "Oct 2026",
+      },
+      {
+        text: "Google UX Design Professional Certificate - Google/ Coursera",
+        date: "Oct 2026",
       },
     ],
   },
