@@ -82,6 +82,7 @@ export const projects = [
     tags: ["Flutter", "Firebase", "Clockify", "Jira", "Figma", "Agile Scrum", "Mobile Application Development"],
     videoLink: null,
     githubLink: "https://github.com/Apps-Builder/utmrunify",
+    figmaLink: "https://www.figma.com/design/5TkYW1QUPPZmD9E0Alapsx/UTM-Running-App?node-id=0-1&t=TQzSOG5N317OGjp0-1",
   },
   {
     id: "project-7",

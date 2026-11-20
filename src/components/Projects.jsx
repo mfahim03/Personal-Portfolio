@@ -27,6 +27,7 @@ import {
   FiExternalLink,
   FiGithub,
   FiYoutube,
+  FiFigma,
 } from "react-icons/fi";
 import { projects } from "../data/projects";
 
@@ -117,6 +118,19 @@ function ProjectCard({ project }) {
             >
               <FiGithub aria-hidden="true" />
               GitHub
+            </a>
+          ) : null}
+
+          {project.figmaLink ? (
+            <a
+              href={project.figmaLink}
+              className="project__link-btn project__link-btn--figma"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={`Figma design of ${project.title}`}
+            >
+              <FiFigma aria-hidden="true" />
+              Figma
             </a>
           ) : null}
         </div>
