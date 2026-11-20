@@ -34,7 +34,7 @@ export const projects = [
   },
   {
     id: "project-2",
-    title: "VolunTier - Volunteer & Activity Regisrtration System",
+    title: "VolunTier - Volunteer & Activity Registration System",
     description:
       ["Capstone project for Certificate in Full Stack Java with AI",
        "A system where users can browse activities and register as volunteers or participants. Admins manage activities and monitor participation.",
